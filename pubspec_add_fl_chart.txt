@@ -1,0 +1,2 @@
+# Add this to your pubspec.yaml under dependencies:
+fl_chart: ^0.64.0
